@@ -1,0 +1,61 @@
+.report-container {
+	margin-top: 40px;
+}
+
+body {
+	font-size: 16px;
+  	line-height: 1.5em;
+}
+
+.project-details {
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  padding: 0px;
+  display: inline-block;
+  position: relative;
+  width: 228px;
+  height: 245px;
+  color: #888888;
+  background-color: #DfDfDf;
+  box-shadow: 1px 0.5px 1px 0.5px #C0C0C0;
+  border-radius: 2px;
+}
+
+.project-container {
+	padding: 0px;
+	padding-bottom: 30px;
+}
+
+.project-details .media {
+  margin: 6px;
+  object-fit: contain;
+}
+
+.project-details h4 {
+	margin: 0px;
+	margin-left: 6px;
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 5px;
+}
+
+.project-details a {
+	text-decoration: none;
+}
+
+.project-details p {
+	margin: 0px;
+	margin-left: 6px;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 1.4;
+	color: #333;
+}
+
+.photo-container {
+	padding: 0px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
